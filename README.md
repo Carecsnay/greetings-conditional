@@ -1,1 +1,1 @@
-🟢[Vercel](https://greetings-conditional.vercel.app/)
+🟢[Deploy](https://greetings-conditional.vercel.app/)
