@@ -1,1 +1,1 @@
-![Vercel](https://greetings-conditional.vercel.app/)
+[Vercel](https://greetings-conditional.vercel.app/)
